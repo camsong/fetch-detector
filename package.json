@@ -1,0 +1,24 @@
+{
+  "name": "fetch-detector",
+  "version": "1.0.0",
+  "description": "Detector fetch based on browser version",
+  "main": "index.js",
+  "keywords": [
+    "fetch",
+    "github fetch",
+    "ajax"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/camsong/fetch-detector/issues"
+  },
+  "homepage": "https://github.com/camsong/fetch-detector#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camsong/fetch-detector.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
