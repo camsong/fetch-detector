@@ -1,6 +1,6 @@
 {
   "name": "fetch-detector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detector fetch based on browser version",
   "main": "index.js",
   "keywords": [
